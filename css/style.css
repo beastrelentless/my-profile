@@ -439,7 +439,7 @@ about section
     width: 40px;
     font-size: 16px;
     text-align: center;
-    color: var(--text-black-600);
+    color: black ;
     margin: 0 4px;
     border-radius: 50%;
     transition: all 0.3s ease;
